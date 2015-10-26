@@ -1,11 +1,10 @@
 # how-we-ruby
-Guidelines for working with ruby on rails
+Quick-referencing guidelines for working with ruby on rails
 
 ## What is this repository for?
 
-This repository is for quick-referencing our current rails stack on Superintendência de Tecnologia da Informação - Universidade Federal Fluminense (STI-UFF, for short)
-
-# Ruby Stack - STI-UFF #
+Quick-referencing our current rails stack on
+Superintendência de Tecnologia da Informação - Universidade Federal Fluminense (STI-UFF, for short)
 
 ## Ruby
 * ruby 2.1.5 or higher
