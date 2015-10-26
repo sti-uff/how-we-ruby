@@ -13,7 +13,7 @@ Superintendência de Tecnologia da Informação - Universidade Federal Fluminens
 ## Code quality checks
 ""All code in any code-base should look like a single person typed it, no matter how many people contributed."
 
-* Style Guide: [Code style guides](https://github.com/bbatsov/ruby-style-guide/)
+* Style Guide: [Shortened version of the ruby community style guide](https://github.com/igorbp/ruby-style-guide/tree/beta-version)
 * Linting: [Rubocop](https://github.com/bbatsov/rubocop)
 * Query analysis: [Bullet](https://github.com/flyerhzm/bullet)
 * Code quality: [Rubycritic](https://github.com/whitesmith/rubycritic)
