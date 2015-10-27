@@ -11,7 +11,7 @@ Superintendência de Tecnologia da Informação - Universidade Federal Fluminens
 * [rvm](https://rvm.io/) with .ruby-version and .ruby-gemset instead of .rvmrc
 
 ## Code quality checks
-""All code in any code-base should look like a single person typed it, no matter how many people contributed."
+"All code in any code-base should look like a single person typed it, no matter how many people contributed."
 
 * Style Guide: [Shortened version of the ruby community style guide](https://github.com/igorbp/ruby-style-guide/tree/beta-version)
 * Linting: [Rubocop](https://github.com/bbatsov/rubocop)
