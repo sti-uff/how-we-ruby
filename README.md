@@ -37,3 +37,6 @@ Superintendência de Tecnologia da Informação - Universidade Federal Fluminens
 * page opening: [launchy](https://github.com/copiousfreetime/launchy)  
 * email testing: [email-spec](https://github.com/bmabey/email-spec)
 
+## Contributing
+
+We really appreciate your contribution, just read the follow [guidelines](CONTRIBUTING.md) to do it.
