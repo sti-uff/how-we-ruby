@@ -7,8 +7,8 @@ This guidelines are made to make our work easier and more aligned. Therefore, if
 If you find any issues or just want to discuss about something to improve the guidelines you may want to create an issue [here](https://github.com/rennanoliveira/how-we-ruby/issues). 
 
 Just make sure to:
-* Search for a similar issue before open one
-* Describe the issue/discussion and explain why do think it’s important
+* Search for a similar issue before open a new one.
+* Describe the issue/discussion and explain why do you think it’s important.
 * List the possible solutions if you have any.
 	
 ##Merge requests
